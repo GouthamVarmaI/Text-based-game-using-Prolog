@@ -1,0 +1,125 @@
+?- start.
+
+Welcome to the Journey of a Dead Star!
+
+In this game, you will embark on an adventure to save your home planet using the unique abilities of characters.
+Choose your character and start your journey.
+
+
+
+Characters: einstein, hawking, curie, newton, galileo, or darwin.
+You can switch between characters at any point, but each character can only be used once, so "chose wisely".
+You only have SEVEN STEPS to save your plant
+Each character possesses unique abilities that you can use to overcome challenges and save the planet.
+
+
+
+Instructions:
+End every command with a dot {.}
+To chose a character, type character_name. e.g., {einstein.}
+
+
+Watch out Captain!!  You have received a message from your alien buddies about an asteroid marching your way, threatening to disrupt your planet. What do you wanna do? 
+Hint: You may need to explore farther than usual to give you a head start!!!
+
+
+Which character would you like to choose?
+|: galileo.
+You have chosen galileo
+Abilities for galileo:
+telescopic_vision - Grant enhanced vision, allowing to see distant objects or uncover hidden details.
+planetary_insights - Provide insights into celestial mechanics, guiding in navigating space.
+
+
+Which skill of Galileo would you like to use?
+1. Telescopic Vision
+2. Planetary Insights
+|: 1.
+
+Solved!! You found out the coordinates of the asteroid! Galileo's Telescopic Vision saved the day!
+
+
+
+Welcome to the second challenge!
+Good start!  You have encountered an asteroid but it is pacing up!!! Hurry!!!
+Hint: You may need to slow down the time to give you a head start!!!
+
+
+Which scientist would you like to choose?
+|: einstein.
+You have chosen einstein
+Abilities for einstein:
+time_dilation - Manipulate time, slowing it down or speeding it up.
+space_distortion - Create distortions in the fabric of space, altering the environment.
+
+
+Which skill of Einstein would you like to use?
+1. Time dilation
+2. Space distortion
+|: 1.
+
+Solved! Challenge two completed! Einstein's skill to time dilation saved the day!!
+
+
+Welcome to the third challenge!
+The asteroid was slowed down! But it is majestic!!
+Hint: See if someone can help you out to gain strength!!!
+
+
+Which scientist would you like to choose?
+|: newton.
+You have chosen newton
+Abilities for newton:
+newtonian_mechanics - Grant enhanced physical abilities, such as increased strength or agility.
+gravity_manipulation - Manipulate gravitational forces, creating gravitational wells.
+
+
+Which skill of Newton would you like to use?
+1. Newtonian Mechanics
+2. Gravity Manipulation
+|: 1.
+
+Challenge three completed!!! Newton's skill to Newtonian Mechanics made you stronger enough!!!
+
+
+Welcome to the fourth challenge!
+The asteroid was slowed down and you are stronger than ever but you may need more clues!!
+Hint: See if someone can help you out with solving quantum challenges!!
+
+
+Which scientist would you like to choose?
+|: hawking.
+You have chosen hawking
+Abilities for hawking:
+quantum_insights - Perceive hidden clues or bypass quantum-based challenges.
+black_hole_manipulation - Manipulate gravitational fields or harness Hawking radiation.
+
+
+Which skill of Hawking would you like to use?
+1. Black Hole Manippulation
+2. Quantum Insights
+|: 2.
+
+Solved!! Hawking's skill on Quantum Insights saved the day!
+
+Now you know everything about the asteroid thanks to Hawking!
+Hint: You should know what to do!! Become the destroyer!!
+
+
+Which scientist would you like to choose?
+|: curie.
+You have chosen curie
+Abilities for curie:
+radiation_detection - Detect and analyze radiation sources, uncovering hidden secrets.
+chemical_expertise - Synthesize compounds or concoct solutions to chemical puzzles.
+
+
+Which skill of Curie would you like to use?
+1. Radiation Detection
+2. Chemical Expertise
+|: 2.
+
+Hurray! Game over!! You saved your planet! Congratulations!!!
+true.
+
+?- 
